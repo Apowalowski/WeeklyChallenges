@@ -5916,31 +5916,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/whitstroup/.nuget/packages/": {}
+    "C:\\Users\\apowa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/whitstroup/repos/weekly/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\apowa\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
       "projectName": "ChallengesWithTestsMark8.Tests",
-      "projectPath": "/Users/whitstroup/repos/weekly/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
-      "packagesPath": "/Users/whitstroup/.nuget/packages/",
-      "outputPath": "/Users/whitstroup/repos/weekly/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/",
+      "projectPath": "C:\\Users\\apowa\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
+      "packagesPath": "C:\\Users\\apowa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\apowa\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/whitstroup/.config/NuGet/NuGet.Config"
+        "C:\\Users\\apowa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "/Users/whitstroup/repos/weekly/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
-              "projectPath": "/Users/whitstroup/repos/weekly/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj"
+            "C:\\Users\\apowa\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+              "projectPath": "C:\\Users\\apowa\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj"
             }
           }
         }
@@ -5953,6 +5956,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -5983,7 +5987,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
